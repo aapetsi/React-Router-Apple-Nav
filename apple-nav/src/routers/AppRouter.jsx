@@ -8,7 +8,7 @@ const AppRouter = () => {
     <Router>
       <Header />
 
-      <Route path="/" component={Header} />
+      {/* <Route path="/" component={Header} /> */}
     </Router>
   );
 };
